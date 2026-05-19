@@ -1,4 +1,7 @@
 #include <iostream>
+<<<<<<< HEAD
+std::cout << "Hello from Developer Two" << std::endl;
+=======
 
 int calculateMagic(int a, int b) {
     return a + b;
@@ -10,3 +13,4 @@ int main() {
     std::cout << "Hello from Developer One" << std::endl;
     return 0;
 }
+>>>>>>> origin/develop
